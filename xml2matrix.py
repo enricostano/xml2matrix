@@ -1,5 +1,5 @@
 #! /usr/bin/env python
-# xml2python script 1.0 beta
+# xml2matrix script 1.0 beta
 # release date April 6 2011
 
 import sys
